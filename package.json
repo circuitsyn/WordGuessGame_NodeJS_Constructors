@@ -1,0 +1,25 @@
+{
+  "name": "word_guess_game-node",
+  "version": "1.0.0",
+  "description": "A hangman game built utilizing nodeJS in the terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/circuitsyn/WordGuessGame_NodeJS_Constructors.git"
+  },
+  "keywords": [
+    "hangman"
+  ],
+  "author": "Jarred Sutton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/circuitsyn/WordGuessGame_NodeJS_Constructors/issues"
+  },
+  "homepage": "https://github.com/circuitsyn/WordGuessGame_NodeJS_Constructors#readme",
+  "dependencies": {
+    "inquirer": "^6.2.0"
+  }
+}
